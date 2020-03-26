@@ -1,0 +1,6 @@
+C:\Users\Krzysiek\source\repos\WypozyczalniaFilmow\bin\Debug\WypozyczalniaFilmow.exe.config
+C:\Users\Krzysiek\source\repos\WypozyczalniaFilmow\bin\Debug\WypozyczalniaFilmow.exe
+C:\Users\Krzysiek\source\repos\WypozyczalniaFilmow\bin\Debug\WypozyczalniaFilmow.pdb
+C:\Users\Krzysiek\source\repos\WypozyczalniaFilmow\obj\Debug\WypozyczalniaFilmow.csprojAssemblyReference.cache
+C:\Users\Krzysiek\source\repos\WypozyczalniaFilmow\obj\Debug\WypozyczalniaFilmow.exe
+C:\Users\Krzysiek\source\repos\WypozyczalniaFilmow\obj\Debug\WypozyczalniaFilmow.pdb
