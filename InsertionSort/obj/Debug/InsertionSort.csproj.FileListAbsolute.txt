@@ -1,0 +1,14 @@
+C:\Users\Krzysiek\source\repos\InsertSort\bin\Debug\InsertSort.exe.config
+C:\Users\Krzysiek\source\repos\InsertSort\bin\Debug\InsertSort.exe
+C:\Users\Krzysiek\source\repos\InsertSort\bin\Debug\InsertSort.pdb
+C:\Users\Krzysiek\source\repos\InsertSort\obj\Debug\InsertionSort.csprojAssemblyReference.cache
+C:\Users\Krzysiek\source\repos\InsertSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\InsertSort\obj\Debug\InsertSort.exe
+C:\Users\Krzysiek\source\repos\InsertSort\obj\Debug\InsertSort.pdb
+C:\Users\Krzysiek\source\repos\InsertionSort\bin\Debug\InsertSort.exe.config
+C:\Users\Krzysiek\source\repos\InsertionSort\bin\Debug\InsertSort.exe
+C:\Users\Krzysiek\source\repos\InsertionSort\bin\Debug\InsertSort.pdb
+C:\Users\Krzysiek\source\repos\InsertionSort\obj\Debug\InsertionSort.csprojAssemblyReference.cache
+C:\Users\Krzysiek\source\repos\InsertionSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\InsertionSort\obj\Debug\InsertSort.exe
+C:\Users\Krzysiek\source\repos\InsertionSort\obj\Debug\InsertSort.pdb

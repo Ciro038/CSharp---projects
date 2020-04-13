@@ -8,7 +8,9 @@ namespace BubbleSort
 {
     /*
      * Sorting program using bubble sort method
-     * -program use only int table
+     * - program use only int table,
+     * - the numbers are entered by the user,
+     * - the program focuses on the correct algorithm
      */
     class Program
     {

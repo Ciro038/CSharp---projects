@@ -1,0 +1,12 @@
+C:\Users\Jarek\Desktop\Projekty C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Jarek\Desktop\Projekty C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Jarek\Desktop\Projekty C#\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Jarek\Desktop\Projekty C#\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Jarek\Desktop\Projekty C#\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Jarek\Desktop\Projekty C#\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Krzysiek\Desktop\Projekty C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Krzysiek\Desktop\Projekty C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Krzysiek\Desktop\Projekty C#\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Krzysiek\Desktop\Projekty C#\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Krzysiek\Desktop\Projekty C#\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Krzysiek\Desktop\Projekty C#\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

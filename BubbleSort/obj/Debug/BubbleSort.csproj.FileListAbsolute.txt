@@ -4,3 +4,10 @@ C:\Users\Krzysiek\source\repos\BubbleSort\bin\Debug\BubbleSort.exe
 C:\Users\Krzysiek\source\repos\BubbleSort\bin\Debug\BubbleSort.pdb
 C:\Users\Krzysiek\source\repos\BubbleSort\obj\Debug\BubbleSort.exe
 C:\Users\Krzysiek\source\repos\BubbleSort\obj\Debug\BubbleSort.pdb
+C:\Users\Krzysiek\Desktop\Projekty C#\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\Krzysiek\Desktop\Projekty C#\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\Krzysiek\Desktop\Projekty C#\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\Krzysiek\Desktop\Projekty C#\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+C:\Users\Krzysiek\Desktop\Projekty C#\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\Desktop\Projekty C#\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\Krzysiek\Desktop\Projekty C#\BubbleSort\obj\Debug\BubbleSort.pdb

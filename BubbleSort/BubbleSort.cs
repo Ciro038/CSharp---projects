@@ -10,13 +10,13 @@ namespace BubbleSort
     {
         public static void BubbleProgram()
         {
-            Console.WriteLine("Hello in Bubble sort program! :D\nGive me how much elements have yours table:");
+            Console.Write("Hello in Bubble sort program! :D\nGive me how much elements does your table have: ");
             int tabNumber = int.Parse(Console.ReadLine());
-            int[] tab = new int[tabNumber];
+            int[] tab = new int[tabNumber]; //create empty table
             for (int i = 0; i < tabNumber; i++)
             {
                 Console.WriteLine($"Give me {i+1} element of yours table: ");
-                tab[i] = int.Parse(Console.ReadLine());
+                tab[i] = int.Parse(Console.ReadLine()); // filling the table with user-entered elements
 
             }
             Console.Clear();
@@ -29,14 +29,14 @@ namespace BubbleSort
             bool shouldRepeat;
             do
             {
-                shouldRepeat = false;
+                shouldRepeat = false; // initialization variable that tells if a change has occurred
                 for (int i = 0; i < tab.Length-1; i++)
                 {
                     int currentElement = tab[i];
                     int nextElement = tab[i + 1];
                     if (currentElement>nextElement)
                     {
-                        shouldRepeat = true;
+                        shouldRepeat = true; 
                         tab[i] = nextElement;
                         tab[i + 1] = currentElement;
                     }

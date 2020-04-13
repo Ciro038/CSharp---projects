@@ -1,0 +1,6 @@
+C:\Users\Krzysiek\Desktop\Projekty C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Krzysiek\Desktop\Projekty C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Krzysiek\Desktop\Projekty C#\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Krzysiek\Desktop\Projekty C#\ConsoleApp1\obj\Debug\BookRental.csprojAssemblyReference.cache
+C:\Users\Krzysiek\Desktop\Projekty C#\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Krzysiek\Desktop\Projekty C#\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
